@@ -1,1 +1,4 @@
-# 53_Ph-m_Thu_Trang_24174600152_DHKL18A2
+# stt:53 
+# msv:24174600152
+# hoten:Phạm Thu Trang
+# lop:DHKL18A2
